@@ -1,11 +1,5 @@
 ## Olá! Meu Nome é Anderson Souza
 
-<div>
-  <a href="https://github.com/andersonsouza12">
-  <img height="180cmm" src= "https://github-readme-stats.vercel.app/api?username=andersonsouza12&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsouza12&layout=compact&langs_count=16&theme=dracula"/>   
-</div>
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="ande-java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="ande-javaScript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
