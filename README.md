@@ -1,6 +1,7 @@
 ## Olá! Meu Nome é Anderson Souza
-
+<!--
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="ande-java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="ande-javaScript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="ande-typeScript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -10,6 +11,7 @@
    <img align="center" alt="ande-react" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     
 </div>
+-->
  
  
   ## 
